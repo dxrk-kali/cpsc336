@@ -1,3 +1,4 @@
 # cpsc336
-f
-or competition in class
+for competition in class.
+
+Modify the files as needed.
